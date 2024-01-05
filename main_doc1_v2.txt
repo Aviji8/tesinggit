@@ -1,1 +1,3 @@
 toay is jan 6 . today i am here to practice github implementation what ever i have studid yesterday night,
+
+ok thankyou. but now i am writing it for practicing how to pull from remote to local machine.
